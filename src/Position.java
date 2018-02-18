@@ -1,6 +1,4 @@
 /*@author Agnes Aronsson [agar3573]*/
-package Inlupp2;
-
 public class Position {
 	private int x;
 	private int y;
