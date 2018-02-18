@@ -1,6 +1,4 @@
 /*@author Agnes Aronsson [agar3573]*/
-package Inlupp2;
-
 import javax.swing.*;
 import java.awt.*;
 import javax.swing.JPanel;
